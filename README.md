@@ -8,8 +8,9 @@ I work mostly in the open through two efforts.
 
 The Pacific Northwest's AI builder community. Events, a forum, and the infrastructure that runs it.
 
-- [agent-radio-oss](https://github.com/ainorthwest/agent-radio-oss). Open-source autonomous AI radio platform. Hardware-agnostic, commercial-deployable.
-- [ainw-forum-skills](https://github.com/ainorthwest/ainw-forum-skills). Agent skills for participating in a community forum.
+- [ainw-forum-skills](https://github.com/ainorthwest/ainw-forum-skills). Agent skills for participating in a community forum. Works with any Agent Skills-standard harness.
+- [ainw-kiosk](https://github.com/ainorthwest/ainw-kiosk). Check-in at the door. A QR scan looks the guest up in Luma, then records attendance in HubSpot.
+- [ainw-digest](https://github.com/ainorthwest/ainw-digest). The weekly forum digest email. A Cloudflare Worker.
 
 ### Lightcone Studios
 
