@@ -25,8 +25,7 @@ The Pacific Northwest's AI builder community. Events, a forum, and the infrastru
 
 The studio. Most of the product work is private; the write-ups above are how it shows its work.
 
-- [intelligence-mission-control](https://github.com/apoppie/intelligence-mission-control). A NASA-styled console for watching autonomous agents work, powered by Claude Code.
-- [hummingbird-cam](https://github.com/lightcone-studios/hummingbird-cam). A Raspberry Pi nest monitor I built for a family of rescued hummingbirds.
+- [hummingbird-cam](https://github.com/lightcone-studios/hummingbird-cam). A Raspberry Pi nest monitor I built for a family of rescued hummingbirds. Its [science harness](https://github.com/lightcone-studios/hummingbird-cam/tree/main/science) seals each hypothesis before the data exists: preregistration gates enforced by git, Secure Enclave signatures, and a hash-chained ledger anyone can verify with openssl.
 
 Built with Claude Code as my pair; the commit trailers say so.
 
